@@ -1,0 +1,13 @@
+[07-Jun-2018 13:32:28 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/nesiacom/admin.4nesia.com/application/hooks/init_settings.php on line 8
+[11-Jun-2018 00:38:22 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/nesiacom/admin.4nesia.com/application/hooks/init_settings.php on line 8
+[11-Jun-2018 00:47:00 America/New_York] PHP Fatal error:  Call to a member function row() on boolean in /home/nesiacom/admin.4nesia.com/application/models/Users_model.php on line 157
+[11-Jun-2018 00:48:01 America/New_York] PHP Fatal error:  Call to a member function result() on boolean in /home/nesiacom/admin.4nesia.com/application/hooks/init_settings.php on line 8
+[05-Jul-2018 05:21:22 America/New_York] PHP Fatal error:  Call to a member function row() on boolean in /home/nesiacom/admin.4nesia.com/application/models/Users_model.php on line 157
+[05-Jul-2018 05:21:24 America/New_York] PHP Fatal error:  Call to a member function row() on boolean in /home/nesiacom/admin.4nesia.com/application/models/Users_model.php on line 157
+[12-Jul-2018 06:01:25 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nesiacom/admin.4nesia.com/application/helpers/app_files_helper.php on line 300
+[12-Jul-2018 06:01:56 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nesiacom/admin.4nesia.com/system/core/Log.php on line 177
+[12-Jul-2018 06:07:43 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nesiacom/admin.4nesia.com/application/helpers/app_files_helper.php on line 300
+[12-Jul-2018 06:08:15 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nesiacom/admin.4nesia.com/system/core/Log.php on line 177
+[28-Aug-2018 05:03:29 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nesiacom/admin.4nesia.com/system/core/Common.php on line 141
+[28-Aug-2018 05:08:17 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nesiacom/admin.4nesia.com/system/core/Common.php on line 621
+[28-Aug-2018 05:08:48 America/New_York] PHP Fatal error:  Maximum execution time of 30 seconds exceeded in /home/nesiacom/admin.4nesia.com/system/core/Exceptions.php on line 105
